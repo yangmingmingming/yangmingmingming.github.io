@@ -1,7 +1,7 @@
 ---
 name: Vega Lite Example project
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.pngs
+image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min

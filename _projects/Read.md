@@ -1,7 +1,7 @@
 ---
 name: Vega Lite HW6
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/visualization3.pngs
+image: assets/pngs/visualization2.png
 description: This is a "showcase" project that uses vega-lite for HW6!
 custom_js:
   - vega.min
